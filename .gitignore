@@ -1,0 +1,8 @@
+fNIRS-motor-group/
+MNE-fNIRS-motor-data/
+MNE-sample-data/
+
+.ipynb_checkpoints
+flake.lock
+.direnv
+.envrc
