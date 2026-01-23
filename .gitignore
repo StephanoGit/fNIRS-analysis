@@ -1,6 +1,8 @@
 fNIRS-motor-group/
 MNE-fNIRS-motor-data/
 MNE-sample-data/
+Boston-fNIRS-Training/
+
 
 .ipynb_checkpoints
 flake.lock
